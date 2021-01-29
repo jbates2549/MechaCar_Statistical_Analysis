@@ -22,21 +22,24 @@ The r-squared value of .6825 indicates that the model effectively prototypes MPG
 In this analysis we perform variance analysis of coil spring PSI for the entire production and for each production lot.
 
 
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/total%20summary.PNG)
 
-![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_All.PNG)
-
-
-![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot1.PNG)
-
-
-![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot2.PNG)
-
-
-![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot3.PNG)
-
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/lot%20summary.PNG)
 
 
 ### T-Tests on suspension coils
+
+Test for all lots
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_All.PNG)
+
+Test for lot 1
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot1.PNG)
+
+Test for lot 2
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot2.PNG)
+
+Test for lot 3
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot3.PNG)
 
 
 ### Study Design:  MechaCar vs Competition
