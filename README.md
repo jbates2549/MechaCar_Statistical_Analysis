@@ -26,13 +26,13 @@ In this analysis we perform variance analysis of coil spring PSI for the entire 
 ![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_All.PNG)
 
 
-![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_Lot1.PNG)
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot1.PNG)
 
 
-![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_Lot2.PNG)
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot2.PNG)
 
 
-![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_Lot3.PNG)
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot3.PNG)
 
 
 
