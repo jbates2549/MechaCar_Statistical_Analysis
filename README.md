@@ -45,8 +45,18 @@ Test for lot 2
 Test for lot 3
 ![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot3.PNG)
 
-From this
+From this analysis we can see that the p-value for lots 1 adn 2 are above .05 and therefore above the significance level.  For lot 3 the p-value is below .05, therefore we cannot reject the null hypothesis for this lot and further investigation is warranted.
+
+
 ### Study Design:  MechaCar vs Competition
+
+Our team recommends a follow-on statistical study to measure performance of MechaCar against competitive models.  In our study we propose to study safety in both low speed collisions and high speed collisions.  We will provide further analysis to determine the determining factor of car size to safety.
+
+Our hypothesis is that largeer model cars will fare better in collisions with lower incidences of injury to passengers.  the alternative hypothesis is that smaller cars are safer.
+
+We will perform a linear regression of injury rates bases on car size.  We will use T-tests to determine if the samples data shows a statistical difference between mean data for MechaCAr vs the all cars included in the dataset.  For this analysis we will need collision and injury data for a wide range of vehicles.
+
+Our hypothesis is that MechaCAr 
 
 
 
