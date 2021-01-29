@@ -24,7 +24,11 @@ In this analysis we perform variance analysis of coil spring PSI for the entire 
 
 ![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/total%20summary.PNG)
 
+For all lots the variance is 62.3 with standard deviation of 7.9.
+
 ![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/lot%20summary.PNG)
+
+The variance for lots shows the highest variance for lot 3.  With standard deviation of 13.05, we should investigate the cause for this deviation for lot 3.
 
 
 ### T-Tests on suspension coils
@@ -41,7 +45,7 @@ Test for lot 2
 Test for lot 3
 ![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_lot3.PNG)
 
-
+From this
 ### Study Design:  MechaCar vs Competition
 
 
