@@ -9,18 +9,32 @@ For this analysis we used R studio to perform linear regression to predict MPG, 
 
 ### Linear regresion to predict MPG
 
+This analysis performs multiple linear regression to determine which factors contribute the most to our MPG.
+
 ![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/linear%20regression%20summary.PNG)
 
-*  Average temperature was 3.9 degrees higher in June than in December.
-*  Max temperature for June was 85 degrees, while in December it was 83 degrees.
-*  Min temperature in June was 64 degrees in June, vs. 56 degrees in December.
-*  Overall, the temperatures were in a comfortable range for customers to patronize the shop.
+We can see from examining our Pr(>|t|) values that Intercept, vehicle length, and ground clearance provide non-random amounts to MPG in the dataset.
+The slope of the linear model is non-zero as the p-value is smaller than our assumed significance level of .05%
+The r-squared value of .6825 indicates that the model effectively prototypes MPG.
 
 
 ### Statistical analysis of suspension coil PSI
+In this analysis we perform variance analysis of coil spring PSI for the entire production and for each production lot.
 
 
-![image_name](https://github.com/jbates2549/surfs_up/blob/main/temp_analysis.PNG)
+
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_All.PNG)
+
+
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_Lot1.PNG)
+
+
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_Lot2.PNG)
+
+
+![image_name](https://github.com/jbates2549/MechaCar_Statistical_Analysis/blob/main/T_test_Lot3.PNG)
+
+
 
 ### T-Tests on suspension coils
 
